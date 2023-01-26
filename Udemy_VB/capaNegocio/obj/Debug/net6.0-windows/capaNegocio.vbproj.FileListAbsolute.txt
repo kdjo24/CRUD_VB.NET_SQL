@@ -1,0 +1,17 @@
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\bin\Debug\net6.0-windows\capaNegocio.deps.json
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\bin\Debug\net6.0-windows\capaNegocio.dll
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\bin\Debug\net6.0-windows\capaNegocio.pdb
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\bin\Debug\net6.0-windows\capaDatos.dll
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\bin\Debug\net6.0-windows\capaEntidad.dll
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\bin\Debug\net6.0-windows\capaDatos.pdb
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\bin\Debug\net6.0-windows\capaEntidad.pdb
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\obj\Debug\net6.0-windows\capaNegocio.vbproj.AssemblyReference.cache
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\obj\Debug\net6.0-windows\capaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\obj\Debug\net6.0-windows\capaNegocio.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\obj\Debug\net6.0-windows\capaNegocio.AssemblyInfo.vb
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\obj\Debug\net6.0-windows\capaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\obj\Debug\net6.0-windows\capaNegocio.vbproj.CopyComplete
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\obj\Debug\net6.0-windows\capaNegocio.dll
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\obj\Debug\net6.0-windows\refint\capaNegocio.dll
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\obj\Debug\net6.0-windows\capaNegocio.pdb
+C:\Users\ander\Documents\Ander\UDEMY\CRUD_Net_SQL\Udemy_VB\capaNegocio\obj\Debug\net6.0-windows\ref\capaNegocio.dll
